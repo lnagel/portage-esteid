@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<maintainer><email>lenno@nagel.ee</email></maintainer>
+<longdescription lang="en">Estonian ID card digital signing browser plugin</longdescription>
+</pkgmetadata>
+
